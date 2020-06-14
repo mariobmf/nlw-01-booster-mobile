@@ -54,8 +54,6 @@ export default StyleSheet.create({
   buttonIcon: {
     height: 60,
     width: 60,
-    borderTopLeftRadius: 10,
-    borderBottomLeftRadius: 10,
     backgroundColor: 'rgba(0, 0, 0, 0.1)',
     justifyContent: 'center',
     alignItems: 'center',
