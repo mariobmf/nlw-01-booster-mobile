@@ -21,10 +21,10 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 ### Instalando Mobile
 ```bash
 # Clonar o Repositório
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/mariobmf/nlw-01-booster-mobile.git
 
 # Entrar no Repositório
-$ cd /mobile
+$ cd /nlw-01-booster-mobile
 
 # Instalar as Dependências
 $ yarn install
